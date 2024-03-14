@@ -1,0 +1,4 @@
+x = "I AM A"
+y = "cpder"
+print(x)
+print(y)
